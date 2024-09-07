@@ -1,0 +1,4 @@
+Myshkin says hello
+Testing MR
+MapReduce
+Prince Myshkin likes MapReduce
