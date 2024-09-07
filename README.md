@@ -1,2 +1,2 @@
 # map-reduce
-# map-reduce
+Map Reduce implementation in Go!
